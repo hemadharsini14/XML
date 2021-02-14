@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<student>
+		<name>Hema</name>
+		<salary>3000</salary>
+	</student>
+
+	<student>
+		<name>Dharsini</name>
+		<salary>30000</salary>
+	</student>
+
+</student>
