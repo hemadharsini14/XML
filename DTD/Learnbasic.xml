@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM  "rules.dtd">
+<students>
+	<student>
+		<name>Hema</name>
+		<salary>3000</salary>
+	</student>
+
+	<student>
+		<name>Dharsini</name>
+		<salary>30000</salary>
+	</student>
+
+</students>
